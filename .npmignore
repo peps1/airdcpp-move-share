@@ -1,0 +1,6 @@
+/devtools
+/coverage
+\.*
+*.tgz
+/src
+*.ts

@@ -1,0 +1,25 @@
+{
+  "name": "airdcpp-move-share",
+  "version": "1.0.0-alpha.1",
+  "description": "BETA TESTING: Scripts around airdc ",
+  "homepage": "https://github.com/peps1/airdcpp-move-share",
+  "license": "MIT",
+  "author": {
+    "name": "pepsi"
+  },
+  "bugs": {
+    "url": "https://github.com/peps1/airdcpp-move-share/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peps1/airdcpp-move-share"
+  },
+  "scripts": {},
+  "main": "./",
+  "dependencies": {
+    "airdcpp-apisocket": "^2.4.4",
+    "cli-progress": "^3.9.1",
+    "fdir": "^5.1.0",
+    "websocket": "^1.0.34"
+  }
+}
